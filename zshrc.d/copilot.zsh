@@ -88,3 +88,5 @@ EOF
 }
 
 alias "??"="ghcs"
+alias "git?"="ghcs -t git"
+alias "gh?"="ghcs -t gh"
